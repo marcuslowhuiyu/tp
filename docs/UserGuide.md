@@ -38,6 +38,7 @@ If you would like to:
 | :bulb:                  | Tips to improve the Tuthub experience                                                                                |
 | :exclamation:           | Things to be cautious of and should be followed closely                                                              |
 
+<div style="page-break-after: always;"></div>
 ### Layout of Tuthub Application Window
 
 The image below shows a Tuthub Application Window (with a tutor profile selected) with all its sections labelled.
