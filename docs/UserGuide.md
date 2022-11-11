@@ -152,6 +152,7 @@ Format: `help`
 
 ![helpMessage](images/helpMessage.png)
 
+<div style="page-break-after: always;"></div>
 <div markdown="block" class="alert alert-info">
 
 :information_source: **Note:**
@@ -190,6 +191,7 @@ You may also click on a `Tutor List Card` to execute a `view` command instead
 
 </div>
 
+<div style="page-break-after: always;"></div>
 ### Adding a tutor: `add`
 
 Found a new tutor who's not already recorded in Tuthub? Simply add them in!
@@ -215,6 +217,7 @@ Examples:
 
 ![add](images/user-guide/add.png)
 
+<div style="page-break-after: always;"></div>
 ### Editing a tutor: `edit`
 
 Edits an existing tutor in Tuthub. This is useful for updating information of tutors that has changed or has been wrongly input.
