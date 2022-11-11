@@ -57,6 +57,7 @@ The following table describes the sections in detail:
 | 6        | `Tutor Details Pane`    | Displays full details of a tutor saved in Tuthub.                                   |
 | 7        | `Storage File Location` | Displays the location of your Tuthub data file.                                     |
 
+<div style="page-break-after: always;"></div>
 ### Command Format
 <div markdown="block" class="alert alert-info">
 
@@ -73,7 +74,6 @@ The following table describes the sections in detail:
 </div>
 
 <div style="page-break-after: always;"></div>
-
 ### Frequently Used Command Parameters
 
 <div markdown="block" class="alert alert-info">
