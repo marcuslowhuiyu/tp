@@ -249,6 +249,7 @@ Examples:
 * `edit 3 m/CS2100 y/3 s/A0654729L` Edits the module code, year, and student id of the 3rd tutor to be CS2100, 3, and A0654729L respectively.
 * `edit 3 tn/2 r/4.58` Edits the number of teaching nominations and rating of the 3rd tutor to be 2 and 4.58 respectively.
 
+<div style="page-break-after: always;"></div>
 ### Commenting on a tutor: `comment`
 
 Tracking a tutor? Use the comment command to add comments to a tutor.
@@ -278,6 +279,7 @@ Format: `deletecomment TUTOR_INDEX COMMENT_INDEX` or `dc TUTOR_INDEX COMMENT_IND
 Examples:
 * `deletecomment 1 1` and `dc 1 1` deletes the 1st comment from the 1st tutor.
 
+<div style="page-break-after: always;"></div>
 ### Search for tutor by attribute: `find`
 
 Searching for tutors that teach relevant or specific modules? Looking for tutors with the best ratings? The find
