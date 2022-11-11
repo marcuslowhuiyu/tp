@@ -312,6 +312,7 @@ Refer to [this section](#frequently-used-command-parameters) for more informatio
 
 Examples:
 * `find n/John` returns all tutors with names that contains `John`.
+<div style="page-break-after: always;"></div>
 * `find n/alex david` returns all tutors with names that contain `Alex` or `David`, as shown below:
 
 ![find](images/user-guide/find.png)
@@ -324,6 +325,7 @@ Examples:
 * `find tn/3` returns all tutors that have `3` teaching nominations.
 * `find r/4.0` returns all tutors that have rating of `4.0`.
 * `find r/4` returns all tutors that having rating starting with `4`.
+<div style="page-break-after: always;"></div>
 * `find t/senior` returns all tutors that have a tag containing `senior`, as shown below:
 
 ![findTag](images/user-guide/find-tag.png)
