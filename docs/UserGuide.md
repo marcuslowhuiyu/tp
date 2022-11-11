@@ -150,9 +150,8 @@ If you are new to Tuthub or need a refresher for available commands, `help` disp
 
 Format: `help`
 
-![helpMessage](images/helpMessage.png)
-
 <div style="page-break-after: always;"></div>
+![helpMessage](images/helpMessage.png)
 <div markdown="block" class="alert alert-info">
 
 :information_source: **Note:**
